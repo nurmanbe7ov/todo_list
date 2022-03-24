@@ -1,0 +1,26 @@
+.completed {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.inp {
+  height: 15px;
+  width: 20px;
+}
+
+.button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  padding-top: 19px;
+  padding-bottom: 13px;
+  margin-left: 10px;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 10px;
+}

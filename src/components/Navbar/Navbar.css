@@ -1,0 +1,21 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 1140px;
+  height: 100px;
+}
+.nav {
+  background-color: lightblue;
+}
+
+.nav_inner {
+  display: flex;
+  justify-content: space-between;
+}
+.nav-inner__text {
+  font-size: 25px;
+  padding-top: 20px;
+}
